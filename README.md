@@ -10,3 +10,5 @@ This project was created by:
 
 The purpose of this project is to detect text from scanned receipt.  
 The current version is still under development and might only work with certain dataset.  
+
+Follow the guide [here](https://github.com/arjunvegda/receipt-ocr/blob/master/execute_code_guide.md "Link to guide") 
