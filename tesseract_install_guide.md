@@ -1,4 +1,4 @@
-Download the Teserract setup by clicking [here](https://github.com/arjunvegda/receipt-ocr/blob/master/tesseract_setup.zip "Link to Teserract setup")  
+Download the Teserract setup by clicking [here](https://github.com/arjunvegda/receipt-ocr/raw/master/tesseract_setup.zip "Link to Teserract setup")  
 
 1. Extract anywhere on your pc.
 
