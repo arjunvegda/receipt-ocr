@@ -1,4 +1,4 @@
-Download the Teserract setup by clicking   
+### Setup and Execute the code
 If you have not setup the Tesseract environment yet on your project click [here](https://github.com/arjunvegda/receipt-ocr/raw/master/tesseract_install_guide.md "Link to Teserract setup") prior to running the code.
 
 1. open your visual studios 2012 and open this project.(If a different version of visual studios is being used make sure the environment is set to 2012.)
