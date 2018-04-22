@@ -1,5 +1,5 @@
 ### Results for running code with  
-![alt text](https://github.com/arjunvegda/receipt-ocr/blob/master/scanned%20receipts/receipt.JPG "Receipt.jpg")
+![alt text](https://github.com/arjunvegda/receipt-ocr/blob/master/scanned%20receipts/receipt8.jpg "receipt8.jpg")
 
 When running this is the first screen which will be presented to you.
 
